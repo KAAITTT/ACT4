@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"MODELS\WEAPONS\act3\garand\w_garand"
+	"$alphatest" "1"
+}

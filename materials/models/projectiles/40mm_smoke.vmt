@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/projectiles/40mm_colorable"
+	"$detail" "models/projectiles/40mm_smoke"
+	"$detailblendmode" "4"
+}

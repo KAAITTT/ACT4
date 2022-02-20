@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\act3\m1919/w_30cal"
+	"$alphatest" "1"
+}

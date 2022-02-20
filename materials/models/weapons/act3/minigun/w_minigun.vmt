@@ -1,0 +1,4 @@
+VertexLitGeneric
+{
+$baseTexture "models\weapons/act3/minigun/W_MiniGun"
+}

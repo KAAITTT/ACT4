@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/shells/shell_12g_colorable"
+	"$detail" "models/shells/shell_col_flec"
+	"$detailblendmode" "4"
+}
